@@ -1,11 +1,3 @@
-<h1 align="center">ASW Credit Card Validator - validate card numbers.</h1>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/69723522/225834944-8ea6f27d-d02a-4903-91c3-bc97f9209251.svg" alt="asw-logo" width="310px" height="100px"/>
-  <br>
-  <i>`ASW Card Validator` library validates masking and card numbers, with the help of Luhn's algorithm using Angular.</i>
-  <br>
-</p>
 
 <p align="center">
   <a href="https://asoftwareworld.com/#/product/card-validator"><strong>ASW credit card validator demo</strong></a>
