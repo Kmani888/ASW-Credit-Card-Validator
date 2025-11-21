@@ -1,8 +1,4 @@
 
-<p align="center">
-  <a href="https://asoftwareworld.com/#/product/card-validator"><strong>ASW credit card validator demo</strong></a>
-  <br>
-</p>
 
 <p align="center">
   <a href="CONTRIBUTING.md">Contributing Guidelines</a>
