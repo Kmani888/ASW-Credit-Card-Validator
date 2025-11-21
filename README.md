@@ -1,14 +1,6 @@
 
 
-<p align="center">
-  <a href="CONTRIBUTING.md">Contributing Guidelines</a>
-  ·
-  <a href="https://github.com/asoftwareworld/asw-credit-card-validator/issues">Submit an Issue</a>
-  ·
-  <a href="https://asoftwareworld.com/#/product/card-validator">Blog</a>
-  <br>
-  <br>
-</p>
+
 
 <p align="center">
   <a href="https://www.npmjs.com/package/@asoftwareworld/card-validator">
